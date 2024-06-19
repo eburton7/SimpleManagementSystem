@@ -1,0 +1,8 @@
+# .gitignore
+*.pyc
+__pycache__/
+venv/
+database/health_data.db
+instance/
+.env
+.DS_Store

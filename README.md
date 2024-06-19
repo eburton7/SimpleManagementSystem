@@ -14,7 +14,7 @@ This project is a super simple web application for managing and visualizing publ
 1. **Clone the repository:**
     ```sh
     git clone
-    cd managementSystem
+    cd SimpleManagementSystem
     ```
 
 2. **Create and activate a virtual environment:**
